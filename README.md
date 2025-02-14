@@ -2,8 +2,6 @@
 
 # Hand-Sign-Detection-System-for-Specially-Abled
 
-Below is an example README in Markdown that you can use for your GitHub repository. You can copy and paste this into your README.md file:
-
 ---
 
 # Sign Language Detection with Python and Scikit-Learn
@@ -168,7 +166,3 @@ cv2.destroyAllWindows()
 This project demonstrates a practical approach to sign language detection by focusing on the extraction of hand landmarks for feature reduction and using a Random Forest classifier for efficient prediction. The system is designed for real-time performance and offers a robust framework that can be expanded to include additional signs or more complex gesture recognition tasks.
 
 Happy coding and feel free to contribute!
-
----
-
-This format should work well for your GitHub repository, providing a clear explanation of your project along with example code and usage instructions.
