@@ -1,6 +1,6 @@
-copyright @sambhar_rice
 
-# BreadcrumbsHand-Sign-Detection-System-for-Specially-Abled
+
+# Hand-Sign-Detection-System-for-Specially-Abled
 
 # Hello 
 ![hello](https://github.com/user-attachments/assets/cbd0b66e-2f5e-4f35-bc4d-47dbec2307f5)
