@@ -1,6 +1,6 @@
 
 
-# Hand-Sign-Detection-System-for-Specially-Abled
+# New Hand Sign Detection System for Specially Abled
 
 ---
 
